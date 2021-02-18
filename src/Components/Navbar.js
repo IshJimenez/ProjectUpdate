@@ -15,5 +15,8 @@ function Navbar() {
 export default Navbar;
 
 
+// https://api.nasa.gov/mars-photos/api/v1/rovers/curiosity/photos?sol=1000&api_key=Z5DfJhQFX8Fa1IZ6uSge818TqVjUOHVqVGbE93jQ
+
 // https://api.nasa.gov/planetary/apod?api_key=Z5DfJhQFX8Fa1IZ6uSge818TqVjUOHVqVGbE93jQ
 
+// https://api.nasa.gov/planetary/apod?api_key=Z5DfJhQFX8Fa1IZ6uSge818TqVjUOHVqVGbE93jQ

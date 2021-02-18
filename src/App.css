@@ -11,3 +11,33 @@
 .pic1 img{
   width: 1200px;
 }
+.Bbob {
+  background-color: lightsteelblue;
+}
+.Bob {
+  background-color: lightsteelblue;
+}
+
+.Bbob li{
+  background-color: lightsteelblue;
+}
+
+.Bob ul li{
+list-style-type: none;
+/* display: flex;
+width: 100%;
+justify-content: space-around; */
+}
+
+
+
+.Bob img{
+
+  width: 250px;
+  padding: 10px;
+  margin: 5px;
+  display: block; 
+  float: right;
+  /* display: flex;
+  flex-wrap: wrap; */
+}
