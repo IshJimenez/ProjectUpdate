@@ -5,11 +5,13 @@
 }
 
 .navBar img {
-  height: 10px;
+  height: 20px;
 }
 
+/* Testor */
 .pic1 img{
-  width: 1200px;
+  width: 600px;
+  height: 500px;
 }
 .Bbob {
   background-color: lightsteelblue;
@@ -17,27 +19,58 @@
 .Bob {
   background-color: lightsteelblue;
 }
-
-.Bbob li{
-  background-color: lightsteelblue;
+.Bob h1, p{
+  display: flex;
+  justify-content: center;
+  padding: 1px 10px;
 }
 
 .Bob ul li{
 list-style-type: none;
-/* display: flex;
-width: 100%;
-justify-content: space-around; */
 }
 
-
+.ob {
+  Color: lightsteelblue;
+  opacity: 0.01;
+}
 
 .Bob img{
 
   width: 250px;
-  padding: 10px;
+  padding: 20px 10px;
   margin: 5px;
   display: block; 
-  float: right;
+  float: left;
   /* display: flex;
   flex-wrap: wrap; */
 }
+
+/* // Weather  */
+
+.Ttob {
+  background-color: lightseagreen;
+  height: 975px;
+}
+
+.Tob img{
+  width: 50%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 75px;
+  padding-bottom: 25px;
+}
+
+div.Tobb > * {
+  text-align: center;
+  /* background-color: yellow; */
+}
+
+.Tobb h4{
+padding: 10px 10px;
+}
+
+.Tobb h6{
+  padding: 1px 185px;
+}
+
