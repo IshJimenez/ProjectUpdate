@@ -42,8 +42,7 @@ function Testor () {
     // http://gateway.marvel.com/v1/public/comics?ts=1&apikey=a255f8fdc5905848168ff3d1547407c0&hash=49ebf9a9561394a9f70d81126b731493db17fd1a
     return (
         <div className="Bbob">
-        
-            <Navbar />
+            <Navbar />       
         <div className="Bob">
             <h1>Curiosity</h1>
                 <p>As established by the Mars Exploration Program, the main scientific goals of the MSL mission are to help determine whether Mars could ever have supported life, as well as determining the role of water, and to study the climate and geology of Mars</p>
@@ -54,8 +53,7 @@ function Testor () {
             <h6>{showrover()}</h6>
         </div>
             </ul>
-        </div>
-        
+        </div>       
         </div>
     );
 }

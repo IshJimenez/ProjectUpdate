@@ -32,9 +32,10 @@ function Weather () {
         <Navbar />
     <div className="Tob">
             {/* {showBat()} */}
+            <h4>{Bat.title}</h4>
             <img src={Bat.hdurl} />
     <div className="Tobb">
-            <h4>{Bat.title}</h4>
+            {/* <h4>{Bat.title}</h4> */}
             <h6>{Bat.explanation}</h6>
     </div>
     </div>

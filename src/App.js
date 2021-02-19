@@ -5,6 +5,7 @@ import { Switch, Route } from 'react-router-dom';
 import Testor from './Components/Testor.js';
 import Weather from './Components/Weather.js'
 import Stars from './Components/Stars.js'
+import Header from './Components/Header.js'
 
 function App() {
   return (

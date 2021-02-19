@@ -1,18 +1,41 @@
-.app-header{
-  font-weight: bold;
-  border-bottom: 1px solid black;
-  padding: 0.4rem;
+
+
+.navBar {
+  background-color: chartreuse;
+  padding: 10px 10px;
 }
 
 .navBar img {
   height: 20px;
+  background-color: chartreuse;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 
-/* Testor */
+.headr {
+  color: red;
+  display: flex;
+  justify-content: center;
+}
+.page {
+  background-color: lightsteelblue;
+  height: 1700px;
+}
+
+/* Homepage Curiosity Pic */
 .pic1 img{
   width: 600px;
   height: 500px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
+.pic1 h2{
+  display: flex;
+  justify-content: center;
+}
+/* Testor */
 .Bbob {
   background-color: lightsteelblue;
 }
@@ -45,11 +68,24 @@ list-style-type: none;
   flex-wrap: wrap; */
 }
 
+/* Homepage Pic Of The Day */
+.pic2 img{
+  width: 600px;
+  height: 500px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.pic2 h2{
+  display: flex;
+  justify-content: center;
+}
+
 /* // Weather  */
 
 .Ttob {
   background-color: lightseagreen;
-  height: 975px;
+  height: 825px;
 }
 
 .Tob img{
@@ -57,20 +93,30 @@ list-style-type: none;
   display: block;
   margin-left: auto;
   margin-right: auto;
-  padding-top: 75px;
+  padding-top: 15px;
   padding-bottom: 25px;
 }
-
-div.Tobb > * {
+.Tob h4 {
+  padding: 10px 10px;
   text-align: center;
-  /* background-color: yellow; */
-}
-
-.Tobb h4{
-padding: 10px 10px;
 }
 
 .Tobb h6{
-  padding: 1px 185px;
+  padding: 15px 185px;
+  text-align: center;
 }
 
+/* Homepage OOOh Knowledge Pic */
+.pic3 img{
+  width: 600px;
+  height: 500px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.pic3 h2{
+  display: flex;
+  justify-content: center;
+}
+
+/* stars */
