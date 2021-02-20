@@ -45,8 +45,8 @@ function Testor () {
             <Navbar />       
         <div className="Bob">
             <h1>Curiosity</h1>
-                <p>As established by the Mars Exploration Program, the main scientific goals of the MSL mission are to help determine whether Mars could ever have supported life, as well as determining the role of water, and to study the climate and geology of Mars</p>
-                <p>Photos taken 2015-05-30</p>
+                <p>As established by the Mars Exploration Program, the main scientific goals of the MSL mission are to help determine whether Mars could ever have supported life, as well as determining the role of water, and to study the climate and geology of Mars.</p>
+                {/* <p>Photos taken 2015-05-30</p> */}
             <ul>
             {showview()}
         <div className="ob">

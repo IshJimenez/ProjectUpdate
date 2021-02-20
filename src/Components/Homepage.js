@@ -12,19 +12,19 @@ function Home() {
         <div className = 'pic1'>
             <Link to="/testor">
                 <img src={Curious} alt="better work bitch" />
-                <h2>Dirty Pics With Curiosity</h2>
+                <h3>Dirty Pics With Curiosity</h3>
             </Link>
         </div>
         <div className = 'pic2'>
             <Link to="/weather">
                 <img src={WeatherPic} alt="whats on the forecast" />
-                <h2>Pic Of The Day</h2>
+                <h3>Pic Of The Day</h3>
             </Link>
         </div>
         <div className = 'pic3'> 
             <Link to='/stars'>
             <img src={Testt} alt="whats on the forecast" />
-            <h2>OOOh Knowledge</h2>
+            <h3>OOOh Knowledge</h3>
             </Link>
         </div>
         </div>

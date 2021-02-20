@@ -1,26 +1,28 @@
 
 
 .navBar {
-  background-color: chartreuse;
+  background-color: white;
   padding: 10px 10px;
 }
 
 .navBar img {
   height: 20px;
-  background-color: chartreuse;
+  /* background-color: white;
+  padding: 10px; */
   display: block;
   margin-left: auto;
   margin-right: auto;
 }
 
 .headr {
-  color: red;
+  color: white;
   display: flex;
   justify-content: center;
+  padding: 10px;
 }
 .page {
-  background-color: lightsteelblue;
-  height: 1700px;
+  background-image: linear-gradient(to right, black , lightsteelblue);
+  height: 1765px;
 }
 
 /* Homepage Curiosity Pic */
@@ -31,21 +33,28 @@
   margin-left: auto;
   margin-right: auto;
 }
-.pic1 h2{
+.pic1 h3{
   display: flex;
   justify-content: center;
+  color: white;
+  padding: 10px;
 }
 /* Testor */
-.Bbob {
-  background-color: lightsteelblue;
-}
 .Bob {
-  background-color: lightsteelblue;
+  background-image: linear-gradient(to right, lightsteelblue , black);
 }
-.Bob h1, p{
+.Bob h1 {
   display: flex;
   justify-content: center;
-  padding: 1px 10px;
+  padding: 25px 1px;
+  color: rgba(255, 182, 46, 0.8);
+}
+
+.Bob p{
+  display: flex;
+  justify-content: center;
+  padding: 1px 120px;
+  color: rgb(234, 240, 251);
 }
 
 .Bob ul li{
@@ -76,15 +85,17 @@ list-style-type: none;
   margin-left: auto;
   margin-right: auto;
 }
-.pic2 h2{
+.pic2 h3{
   display: flex;
   justify-content: center;
+  color: white;
+  padding: 10px;
 }
 
 /* // Weather  */
 
 .Ttob {
-  background-color: lightseagreen;
+  background-image: linear-gradient(to right, lightsteelblue , black);
   height: 825px;
 }
 
@@ -97,13 +108,15 @@ list-style-type: none;
   padding-bottom: 25px;
 }
 .Tob h4 {
-  padding: 10px 10px;
+  padding: 20px 10px 0px 10px;
   text-align: center;
+  color: rgba(255, 182, 46, 0.8);
 }
 
 .Tobb h6{
   padding: 15px 185px;
   text-align: center;
+  color: rgb(234, 240, 251);
 }
 
 /* Homepage OOOh Knowledge Pic */
@@ -114,9 +127,36 @@ list-style-type: none;
   margin-left: auto;
   margin-right: auto;
 }
-.pic3 h2{
+.pic3 h3{
   display: flex;
   justify-content: center;
+  color: white;
+  padding: 10px;
 }
 
 /* stars */
+.planetH{
+  background-image: linear-gradient(to right, lightsteelblue , black);
+}
+
+.planetCard h6{
+  color: rgb(234, 240, 251);
+  text-align: center;
+  list-style-type: none;
+}
+
+.planetH h2{
+  padding: 15px 0px;
+  color: rgba(255, 182, 46, 0.8);
+}
+
+.planetCard h5 {
+  color: rgb(255, 255, 255);
+  text-align: center;
+  padding-right: 100px;
+  padding-left: 100px;;
+}
+
+.planetinfo {
+  padding-top: 20px;
+}
