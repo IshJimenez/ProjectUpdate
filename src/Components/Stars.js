@@ -41,7 +41,9 @@ function Stars () {
         <div className="planetCard">
         <h5 className="planetinfo">Moons – also known as natural satellites – orbit planets and asteroids in our solar system</h5>
         <h5>Moons come in many shapes, sizes, and types. A few have atmospheres and even hidden oceans beneath their surfaces. Most planetary moons probably formed from the discs of gas and dust circulating around planets in the early solar system, though some are "captured" objects that formed elsewhere and fell into orbit around larger worlds.</h5>
-        <h6>{showstar()}</h6>
+        <div className ="box">
+        <h6 className ="boxx">{showstar()}</h6>
+        </div>
         </div>
         </div>
     );

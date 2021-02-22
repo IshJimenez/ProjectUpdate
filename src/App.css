@@ -15,7 +15,7 @@
 }
 
 .headr {
-  color: white;
+  color: rgb(0, 255, 191);
   display: flex;
   justify-content: center;
   padding: 10px;
@@ -47,7 +47,7 @@
   display: flex;
   justify-content: center;
   padding: 25px 1px;
-  color: rgba(255, 182, 46, 0.8);
+  color: rgb(0, 255, 191);
 }
 
 .Bob p{
@@ -100,7 +100,7 @@ list-style-type: none;
 }
 
 .Tob img{
-  width: 50%;
+  width: 550px;
   display: block;
   margin-left: auto;
   margin-right: auto;
@@ -110,13 +110,13 @@ list-style-type: none;
 .Tob h4 {
   padding: 20px 10px 0px 10px;
   text-align: center;
-  color: rgba(255, 182, 46, 0.8);
+  color: rgb(0, 255, 191);
 }
 
 .Tobb h6{
   padding: 15px 185px;
   text-align: center;
-  color: rgb(234, 240, 251);
+  color: white;
 }
 
 /* Homepage OOOh Knowledge Pic */
@@ -143,18 +143,21 @@ list-style-type: none;
   color: rgb(234, 240, 251);
   text-align: center;
   list-style-type: none;
+  /* border-style: solid;
+  border-color: red; */
 }
 
 .planetH h2{
   padding: 15px 0px;
-  color: rgba(255, 182, 46, 0.8);
+  color: rgb(0, 255, 191);
 }
 
 .planetCard h5 {
   color: rgb(255, 255, 255);
   text-align: center;
   padding-right: 100px;
-  padding-left: 100px;;
+  padding-left: 100px;
+  
 }
 
 .planetinfo {
